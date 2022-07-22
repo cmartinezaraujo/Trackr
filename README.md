@@ -1,5 +1,7 @@
 # Trackr 
 
+<img src="./screenshots/Home.png" width="500px"></img>
+
 ## About This Project
 Trackr was a senior capstone project completed over multiple sprints using the AGILE methodology. Our idea was to find a way to improve the efficiency of contact tracing. When we started, we had a few ideas for the project. We decided to create a web application that would allow users to add contacts to their network to be notified when the user reports a case. We also wanted to find a solution for tracking these cases in a bigger setting like schools or workplaces.
 
